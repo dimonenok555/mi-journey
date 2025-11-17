@@ -7,3 +7,5 @@
 -[] Нейронные сети 
 -[] Deep Learning
 -[]MLPops
+
+git add commit-m
