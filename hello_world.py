@@ -1,3 +1,4 @@
-git remote add origin https://github.com/dimonenok555/mi-journey.git
-git branch -M main
-git push -u origin main
+def main ()
+name: input ( Dmitry)
+print (f"Привет (Dmitry) Добро пожаловать в мир нейросетей!")
+if__name__== "__main__":main()
